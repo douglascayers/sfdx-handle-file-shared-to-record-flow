@@ -22,7 +22,7 @@ not supported in Process Builder to monitor for record changes. Please vote for 
 ![screenshot](images/pb-no-support-content-objects.png)
 
 Not to be deterred, Michelle and I collaborated to develop an Apex trigger that could
-know when a file was being shared to a record and then cal an autolaunched flow
+know when a file was being shared to a record and then call an autolaunched flow
 where the business logic could be implemented declaratively.
 
 This project is the result of that awesome collaboration 🙂
