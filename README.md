@@ -2,6 +2,8 @@
 
 Declaratively handle when files are shared to records.
 
+![screenshot](images/handle-file-shared-to-record-flow.png)
+
 ## Table of Contents
 * [Overview](#overview)
 * [Deploy Metadata to Your Org](#deploy-metadata-to-your-org)
