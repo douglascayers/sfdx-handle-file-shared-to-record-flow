@@ -29,6 +29,9 @@ This project is the result of that awesome collaboration 🙂
 
 ## Deploy Metadata to Your Org
 
+> Before deploying to production, test in a sandbox or scratch org first.
+> You also may need to update the [Apex Test](force-app/main/default/classes) to meet your org's requirements.
+
 ### Deploy Using Visual Studio Code
 
 > If you are unfamiliar with deploying metadata with Visual Studio Code,
