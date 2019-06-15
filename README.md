@@ -17,7 +17,7 @@ This project is inspired by [Michelle Hansen](https://twitter.com/@mehansen82) w
 call a flow when a file is shared to a record.
 
 As of the Summer '19 release, ContentDocumentLink, ContentDocument, and ContentVersion objects are
-not supported in Process Builder to monitor for record changes.
+not supported in Process Builder to monitor for record changes. Please vote for [Terence Chiu's idea](https://success.salesforce.com/ideaView?id=0873A000000E35YQAS).
 
 ![screenshot](images/pb-no-support-content-objects.png)
 
