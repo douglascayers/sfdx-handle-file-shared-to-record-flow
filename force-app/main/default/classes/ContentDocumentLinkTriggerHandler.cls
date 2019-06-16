@@ -31,7 +31,7 @@ public with sharing class ContentDocumentLinkTriggerHandler {
                 Id IN :newList
                 AND
                 // but due to implementation restriction, we need another filter...
-                 ContentDocumentId IN :contentDocumentIds
+                ContentDocumentId IN :contentDocumentIds
         ]);
 
         for ( ContentDocumentLink cdl : cdls ) {
