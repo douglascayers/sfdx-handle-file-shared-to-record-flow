@@ -46,6 +46,8 @@ public with sharing class ContentDocumentLinkTriggerHandler {
                 'varContentVersionId' => cdl.ContentDocument.LatestPublishedVersionId
             };
 
+            // For discussion about invoking flow in a loop and governor limits,
+            // see this tweet thread: https://twitter.com/Nads_P07/status/1140341833689518080
             Flow.Interview myFlow = Flow.Interview.createInterview( 'Handle_File_Shared_To_Record_Flow', inputs );
             myFlow.start();
 
