@@ -78,7 +78,7 @@ This project is the result of that awesome collaboration 🙂
 2. Change directory into the project folder.
 
     ```
-    cd sfdx-mass-action-scheduler
+    cd sfdx-handle-file-shared-to-record-flow
     ```
 
 3. Deploy metadata to your org, replacing `YOUR_ORG_ALIAS` with an alias you've already authorized with the Salesforce CLI.
